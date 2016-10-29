@@ -1,7 +1,8 @@
 ## Screenshots
-![](https://raw.githubusercontent.com/jovanidash21/calculator/master/Screenshots/1.png)
-![](https://raw.githubusercontent.com/jovanidash21/calculator/master/Screenshots/2.png)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jovanidash21/calculator/master/Screenshots/1.png">
+  <img src="https://raw.githubusercontent.com/jovanidash21/calculator/master/Screenshots/2.png">
+</p>
 ## Connect
 - [Wordpress](https://jovaniwarguez.wordpress.com/)
 - [Facebook](https://facebook.com/jovani.cadornawarguez)
