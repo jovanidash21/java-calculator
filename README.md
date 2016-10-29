@@ -1,6 +1,8 @@
 ## Screenshots
 <p align="center">
   <img src="https://raw.githubusercontent.com/jovanidash21/calculator/master/Screenshots/1.png">
+</p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/jovanidash21/calculator/master/Screenshots/2.png">
 </p>
 ## Connect
