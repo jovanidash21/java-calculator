@@ -7,6 +7,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/jovanidash21/calculator/master/Screenshots/2.png">
 </p>
+## Installation
+1. Clone or download this repository.
+2. Open and Run using any Java IDE.
 ## Connect
 - [Wordpress](https://jovaniwarguez.wordpress.com/)
 - [Facebook](https://facebook.com/jovani.cadornawarguez)
