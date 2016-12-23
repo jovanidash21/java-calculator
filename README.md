@@ -1,4 +1,4 @@
-# Calculator
+# Java - Calculator
 ---
 ## Screenshots
 <p align="center">
