@@ -9,8 +9,11 @@
 </p>
 
 ## Installation
-1. Clone or download this repository.
-2. Open and Run using any Java IDE.
+* Clone or download this repository.
+```
+git clone https://github.com/jovanidash21/java-calculator.git
+```
+* Open and Run using any Java IDE.
 
 ## Connect
 - [Wordpress](https://jovaniwarguez.wordpress.com/)
