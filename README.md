@@ -15,3 +15,6 @@
 git clone https://github.com/jovanidash21/java-calculator.git
 ```
 * Open and Run using any Java IDE.
+
+## License
+Licensed under [MIT](https://opensource.org/licenses/mit-license.php).
